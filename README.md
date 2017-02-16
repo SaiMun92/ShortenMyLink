@@ -1,7 +1,7 @@
 # ShortenLink Application
 Last updated: 16th Aug 2016
 
-This is a Meteor and React application where u can 
+This is a Meteor and React application where u can create a shorten URL much like Google URL Shortener tool.
 
 ## Installation
 In your terminal, cd to the downloaded folder.
