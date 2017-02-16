@@ -1,0 +1,9 @@
+Packages installed:
+1. npm install --save react react-dom
+2. meteor add twbs:bootstrap@3.3.6
+3. meteor remove insecure - prevent users from remove or update data from the client side
+4. npm install --save valid-url - checks whether its a valid url duhh
+5. meteor remove autopublish
+6. npm install --save react-addons-pure-render-mixin
+7. meteor add react-meteor-data -  provides an integration between React and tracker, Meteor's reactive data system.
+8. npm install --save connect-route
